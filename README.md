@@ -1,2 +1,3 @@
 # project.python
-Calculadora simples 
+Calculadora basica feita em python
+
